@@ -1,0 +1,20 @@
+ 1272  mkdir Actividades
+ 1273  cd Actividades
+ 1274  mkdir "Deportes de equipo" "Deportes acuaticos" "Deportes extremos" "Deportes de mesa" "Deportes mentales"
+ 1275  cd "Deportes de equipo"
+ 1276  touch Basquet
+ 1277  cd ..
+ 1278  cd "Deportes mentales"
+ 1279  touch Ajedrez.txt
+ 1280  cd  .
+ 1281  cd ..
+ 1282  cd "Deportes de mesa"
+ 1283  touch "Ping pong"
+ 1284  cd ..
+ 1285  ls -R
+ 1286  rm -r "Deportes extremos"
+ 1287  pwd
+ 1288  git init
+ 1289  history 17
+ 1290  history 20
+ 1291  history 1272
